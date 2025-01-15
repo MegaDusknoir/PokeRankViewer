@@ -1,0 +1,9 @@
+/download
+/cache
+/dump
+/__pycache__
+/image
+/dev
+/build
+/dist
+/release

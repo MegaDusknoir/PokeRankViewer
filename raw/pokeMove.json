@@ -1,0 +1,6435 @@
+{
+    "1": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "2": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "3": {
+        "type": "一般",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "4": {
+        "type": "一般",
+        "group": "物理",
+        "power": "18",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "5": {
+        "type": "一般",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "6": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "7": {
+        "type": "火",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "8": {
+        "type": "冰",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "9": {
+        "type": "电",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "10": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "11": {
+        "type": "一般",
+        "group": "物理",
+        "power": "55",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "12": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "变化",
+        "pp": "5"
+    },
+    "13": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "14": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "15": {
+        "type": "一般",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "95",
+        "pp": "30"
+    },
+    "16": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "17": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "18": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "19": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "20": {
+        "type": "一般",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "21": {
+        "type": "一般",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "75",
+        "pp": "20"
+    },
+    "22": {
+        "type": "草",
+        "group": "物理",
+        "power": "45",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "23": {
+        "type": "一般",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "24": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "25": {
+        "type": "一般",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "75",
+        "pp": "5"
+    },
+    "26": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "27": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "28": {
+        "type": "地面",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "29": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "30": {
+        "type": "一般",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "31": {
+        "type": "一般",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "32": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "变化",
+        "pp": "5"
+    },
+    "33": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "34": {
+        "type": "一般",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "35": {
+        "type": "一般",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "90",
+        "pp": "20"
+    },
+    "36": {
+        "type": "一般",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "37": {
+        "type": "一般",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "38": {
+        "type": "一般",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "39": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "40": {
+        "type": "毒",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "41": {
+        "type": "虫",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "42": {
+        "type": "虫",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "95",
+        "pp": "20"
+    },
+    "43": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "44": {
+        "type": "恶",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "45": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "40"
+    },
+    "46": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "47": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "55",
+        "pp": "15"
+    },
+    "48": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "55",
+        "pp": "20"
+    },
+    "49": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "90",
+        "pp": "20"
+    },
+    "50": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "51": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "52": {
+        "type": "火",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "53": {
+        "type": "火",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "54": {
+        "type": "冰",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "55": {
+        "type": "水",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "56": {
+        "type": "水",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "80",
+        "pp": "5"
+    },
+    "57": {
+        "type": "水",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "58": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "59": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "70",
+        "pp": "5"
+    },
+    "60": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "61": {
+        "type": "水",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "62": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "63": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "64": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "35",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "65": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "66": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "80",
+        "pp": "20"
+    },
+    "67": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "68": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "69": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "70": {
+        "type": "一般",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "71": {
+        "type": "草",
+        "group": "特殊",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "72": {
+        "type": "草",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "73": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "74": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "75": {
+        "type": "草",
+        "group": "物理",
+        "power": "55",
+        "accuracy": "95",
+        "pp": "25"
+    },
+    "76": {
+        "type": "草",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "77": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "75",
+        "pp": "35"
+    },
+    "78": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "75",
+        "pp": "30"
+    },
+    "79": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "75",
+        "pp": "15"
+    },
+    "80": {
+        "type": "草",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "81": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "95",
+        "pp": "40"
+    },
+    "82": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "83": {
+        "type": "火",
+        "group": "特殊",
+        "power": "35",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "84": {
+        "type": "电",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "85": {
+        "type": "电",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "86": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "90",
+        "pp": "20"
+    },
+    "87": {
+        "type": "电",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "70",
+        "pp": "10"
+    },
+    "88": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "89": {
+        "type": "地面",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "90": {
+        "type": "地面",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "变化",
+        "pp": "5"
+    },
+    "91": {
+        "type": "地面",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "92": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "93": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "94": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "95": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "60",
+        "pp": "20"
+    },
+    "96": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "97": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "98": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "99": {
+        "type": "一般",
+        "group": "物理",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "100": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "101": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "102": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "103": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "85",
+        "pp": "40"
+    },
+    "104": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "105": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "106": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "107": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "108": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "109": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "110": {
+        "type": "水",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "111": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "112": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "113": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "114": {
+        "type": "冰",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "115": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "116": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "117": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "118": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "119": {
+        "type": "飞行",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "120": {
+        "type": "一般",
+        "group": "物理",
+        "power": "200",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "121": {
+        "type": "一般",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "75",
+        "pp": "10"
+    },
+    "122": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "123": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "30",
+        "accuracy": "70",
+        "pp": "20"
+    },
+    "124": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "125": {
+        "type": "地面",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "126": {
+        "type": "火",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "85",
+        "pp": "5"
+    },
+    "127": {
+        "type": "水",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "128": {
+        "type": "水",
+        "group": "物理",
+        "power": "35",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "129": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "130": {
+        "type": "一般",
+        "group": "物理",
+        "power": "130",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "131": {
+        "type": "一般",
+        "group": "物理",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "132": {
+        "type": "一般",
+        "group": "物理",
+        "power": "10",
+        "accuracy": "100",
+        "pp": "35"
+    },
+    "133": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "134": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "80",
+        "pp": "15"
+    },
+    "135": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "136": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "130",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "137": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "138": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "139": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "90",
+        "pp": "40"
+    },
+    "140": {
+        "type": "一般",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "141": {
+        "type": "虫",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "142": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "75",
+        "pp": "10"
+    },
+    "143": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "140",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "144": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "145": {
+        "type": "水",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "146": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "147": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "148": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "149": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "150": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "151": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "152": {
+        "type": "水",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "153": {
+        "type": "一般",
+        "group": "物理",
+        "power": "250",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "154": {
+        "type": "一般",
+        "group": "物理",
+        "power": "18",
+        "accuracy": "80",
+        "pp": "15"
+    },
+    "155": {
+        "type": "地面",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "156": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "157": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "158": {
+        "type": "一般",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "159": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "160": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "161": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "162": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "163": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "164": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "165": {
+        "type": "一般",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "166": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "167": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "10",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "168": {
+        "type": "恶",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "169": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "170": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "171": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "172": {
+        "type": "火",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "173": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "174": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "175": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "176": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "177": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "178": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "40"
+    },
+    "179": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "180": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "181": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "182": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "183": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "184": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "185": {
+        "type": "恶",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "186": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "75",
+        "pp": "10"
+    },
+    "187": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "188": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "189": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "190": {
+        "type": "水",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "191": {
+        "type": "地面",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "192": {
+        "type": "电",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "50",
+        "pp": "5"
+    },
+    "193": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "194": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "195": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "196": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "55",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "197": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "198": {
+        "type": "地面",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "199": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "200": {
+        "type": "龙",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "201": {
+        "type": "岩石",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "202": {
+        "type": "草",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "203": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "204": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "205": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "90",
+        "pp": "20"
+    },
+    "206": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "40"
+    },
+    "207": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "208": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "209": {
+        "type": "电",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "210": {
+        "type": "虫",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "95",
+        "pp": "20"
+    },
+    "211": {
+        "type": "钢",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "90",
+        "pp": "25"
+    },
+    "212": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "213": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "214": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "215": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "216": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "217": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "218": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "219": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "25"
+    },
+    "220": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "221": {
+        "type": "火",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "222": {
+        "type": "地面",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "223": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "50",
+        "pp": "5"
+    },
+    "224": {
+        "type": "虫",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "225": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "226": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "227": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "228": {
+        "type": "恶",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "229": {
+        "type": "一般",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "40"
+    },
+    "230": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "231": {
+        "type": "钢",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "75",
+        "pp": "15"
+    },
+    "232": {
+        "type": "钢",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "95",
+        "pp": "35"
+    },
+    "233": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "234": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "235": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "236": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "237": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "238": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "80",
+        "pp": "5"
+    },
+    "239": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "240": {
+        "type": "水",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "241": {
+        "type": "火",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "242": {
+        "type": "恶",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "243": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "244": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "245": {
+        "type": "一般",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "246": {
+        "type": "岩石",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "247": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "248": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "249": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "250": {
+        "type": "水",
+        "group": "特殊",
+        "power": "35",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "251": {
+        "type": "恶",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "252": {
+        "type": "一般",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "253": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "254": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "255": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "256": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "257": {
+        "type": "火",
+        "group": "特殊",
+        "power": "95",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "258": {
+        "type": "冰",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "259": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "260": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "261": {
+        "type": "火",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "262": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "263": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "264": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "265": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "266": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "267": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "268": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "269": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "270": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "271": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "272": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "273": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "274": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "275": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "276": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "277": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "278": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "279": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "280": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "281": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "282": {
+        "type": "恶",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "283": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "284": {
+        "type": "火",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "285": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "286": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "287": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "288": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "289": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "290": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "291": {
+        "type": "水",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "292": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "15",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "293": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "294": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "295": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "95",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "296": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "95",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "297": {
+        "type": "飞行",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "298": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "299": {
+        "type": "火",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "300": {
+        "type": "地面",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "301": {
+        "type": "冰",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "90",
+        "pp": "20"
+    },
+    "302": {
+        "type": "草",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "303": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "304": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "305": {
+        "type": "毒",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "306": {
+        "type": "一般",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "307": {
+        "type": "火",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "308": {
+        "type": "水",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "309": {
+        "type": "钢",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "310": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "311": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "312": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "313": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "314": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "95",
+        "pp": "25"
+    },
+    "315": {
+        "type": "火",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "316": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "317": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "318": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "319": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "85",
+        "pp": "40"
+    },
+    "320": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "55",
+        "pp": "15"
+    },
+    "321": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "322": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "323": {
+        "type": "水",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "324": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "325": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "326": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "327": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "328": {
+        "type": "地面",
+        "group": "物理",
+        "power": "35",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "329": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "变化",
+        "pp": "5"
+    },
+    "330": {
+        "type": "水",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "331": {
+        "type": "草",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "332": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "333": {
+        "type": "冰",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "334": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "335": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "336": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "337": {
+        "type": "龙",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "338": {
+        "type": "草",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "339": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "340": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "85",
+        "pp": "5"
+    },
+    "341": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "55",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "342": {
+        "type": "毒",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "343": {
+        "type": "一般",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "344": {
+        "type": "电",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "345": {
+        "type": "草",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "346": {
+        "type": "水",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "347": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "348": {
+        "type": "草",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "349": {
+        "type": "龙",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "350": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "351": {
+        "type": "电",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "352": {
+        "type": "水",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "353": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "354": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "355": {
+        "type": "飞行",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "356": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "357": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "358": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "359": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "360": {
+        "type": "钢",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "361": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "362": {
+        "type": "水",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "363": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "364": {
+        "type": "一般",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "365": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "366": {
+        "type": "飞行",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "367": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "368": {
+        "type": "钢",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "369": {
+        "type": "虫",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "370": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "371": {
+        "type": "恶",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "372": {
+        "type": "恶",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "373": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "374": {
+        "type": "恶",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "375": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "376": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "377": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "378": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "379": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "380": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "381": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "382": {
+        "type": "一般",
+        "group": "变化",
+        "power": "变化",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "383": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "384": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "385": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "386": {
+        "type": "恶",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "387": {
+        "type": "一般",
+        "group": "物理",
+        "power": "140",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "388": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "389": {
+        "type": "恶",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "390": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "391": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "392": {
+        "type": "水",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "393": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "394": {
+        "type": "火",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "395": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "396": {
+        "type": "格斗",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "397": {
+        "type": "岩石",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "398": {
+        "type": "毒",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "399": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "400": {
+        "type": "恶",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "401": {
+        "type": "水",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "402": {
+        "type": "草",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "403": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "404": {
+        "type": "虫",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "405": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "406": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "407": {
+        "type": "龙",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "75",
+        "pp": "10"
+    },
+    "408": {
+        "type": "岩石",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "409": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "410": {
+        "type": "格斗",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "411": {
+        "type": "格斗",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "70",
+        "pp": "5"
+    },
+    "412": {
+        "type": "草",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "413": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "414": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "415": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "416": {
+        "type": "一般",
+        "group": "物理",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "417": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "418": {
+        "type": "钢",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "419": {
+        "type": "冰",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "420": {
+        "type": "冰",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "421": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "422": {
+        "type": "电",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "423": {
+        "type": "冰",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "424": {
+        "type": "火",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "425": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "426": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "427": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "428": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "429": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "430": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "431": {
+        "type": "一般",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "85",
+        "pp": "20"
+    },
+    "432": {
+        "type": "飞行",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "433": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "434": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "435": {
+        "type": "电",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "436": {
+        "type": "火",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "437": {
+        "type": "草",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "438": {
+        "type": "草",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "439": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "440": {
+        "type": "毒",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "441": {
+        "type": "毒",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "80",
+        "pp": "5"
+    },
+    "442": {
+        "type": "钢",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "443": {
+        "type": "钢",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "444": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "80",
+        "pp": "5"
+    },
+    "445": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "446": {
+        "type": "岩石",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "447": {
+        "type": "草",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "448": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "449": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "450": {
+        "type": "虫",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "451": {
+        "type": "电",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "452": {
+        "type": "草",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "453": {
+        "type": "水",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "454": {
+        "type": "虫",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "455": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "456": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "457": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "150",
+        "accuracy": "80",
+        "pp": "5"
+    },
+    "458": {
+        "type": "一般",
+        "group": "物理",
+        "power": "35",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "459": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "460": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "461": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "462": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "463": {
+        "type": "火",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "75",
+        "pp": "5"
+    },
+    "464": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "50",
+        "pp": "10"
+    },
+    "465": {
+        "type": "草",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "85",
+        "pp": "5"
+    },
+    "466": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "467": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "468": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "469": {
+        "type": "岩石",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "470": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "471": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "472": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "473": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "474": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "475": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "476": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "477": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "478": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "479": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "480": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "481": {
+        "type": "火",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "482": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "95",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "483": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "484": {
+        "type": "钢",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "485": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "486": {
+        "type": "电",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "487": {
+        "type": "水",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "488": {
+        "type": "火",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "489": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "490": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "491": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "492": {
+        "type": "恶",
+        "group": "物理",
+        "power": "95",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "493": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "494": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "495": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "496": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "497": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "498": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "499": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "500": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "501": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "502": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "503": {
+        "type": "水",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "504": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "505": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "506": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "507": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "508": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "509": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "510": {
+        "type": "火",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "511": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "512": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "55",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "513": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "514": {
+        "type": "一般",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "515": {
+        "type": "格斗",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "516": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "517": {
+        "type": "火",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "50",
+        "pp": "5"
+    },
+    "518": {
+        "type": "水",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "519": {
+        "type": "火",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "520": {
+        "type": "草",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "521": {
+        "type": "电",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "522": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "523": {
+        "type": "地面",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "524": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "525": {
+        "type": "龙",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "526": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "527": {
+        "type": "电",
+        "group": "特殊",
+        "power": "55",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "528": {
+        "type": "电",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "529": {
+        "type": "地面",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "530": {
+        "type": "龙",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "531": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "532": {
+        "type": "草",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "533": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "534": {
+        "type": "水",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "535": {
+        "type": "火",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "536": {
+        "type": "草",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "537": {
+        "type": "虫",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "538": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "539": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "85",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "540": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "541": {
+        "type": "一般",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "542": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "70",
+        "pp": "10"
+    },
+    "543": {
+        "type": "一般",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "544": {
+        "type": "钢",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "85",
+        "pp": "15"
+    },
+    "545": {
+        "type": "火",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "546": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "547": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "548": {
+        "type": "格斗",
+        "group": "特殊",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "549": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "550": {
+        "type": "电",
+        "group": "物理",
+        "power": "130",
+        "accuracy": "85",
+        "pp": "5"
+    },
+    "551": {
+        "type": "火",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "85",
+        "pp": "5"
+    },
+    "552": {
+        "type": "火",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "553": {
+        "type": "冰",
+        "group": "物理",
+        "power": "140",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "554": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "555": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "55",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "556": {
+        "type": "冰",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "557": {
+        "type": "火",
+        "group": "物理",
+        "power": "180",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "558": {
+        "type": "火",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "559": {
+        "type": "电",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "560": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "561": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "562": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "563": {
+        "type": "地面",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "564": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "565": {
+        "type": "虫",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "25"
+    },
+    "566": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "567": {
+        "type": "幽灵",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "568": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "569": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "25"
+    },
+    "570": {
+        "type": "电",
+        "group": "特殊",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "571": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "572": {
+        "type": "草",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "573": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "574": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "575": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "576": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "577": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "578": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "579": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "580": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "581": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "582": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "583": {
+        "type": "妖精",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "584": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "585": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "95",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "586": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "587": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "588": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "589": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "590": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "591": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "592": {
+        "type": "水",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "593": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "594": {
+        "type": "水",
+        "group": "特殊",
+        "power": "15",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "595": {
+        "type": "火",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "596": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "597": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "598": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "599": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "600": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "601": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "602": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "603": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "604": {
+        "type": "电",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "605": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "606": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "607": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "608": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "30"
+    },
+    "609": {
+        "type": "电",
+        "group": "物理",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "610": {
+        "type": "一般",
+        "group": "class=\"bg-物理 ts-物理\"",
+        "power": "物理",
+        "accuracy": "40",
+        "pp": "100"
+    },
+    "611": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "612": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "613": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "614": {
+        "type": "地面",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "615": {
+        "type": "地面",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "616": {
+        "type": "地面",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "617": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "618": {
+        "type": "水",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "619": {
+        "type": "地面",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "620": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "621": {
+        "type": "恶",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "622": {
+        "type": "一般",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "623": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "624": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "625": {
+        "type": "格斗",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "626": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "627": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "628": {
+        "type": "毒",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "629": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "630": {
+        "type": "地面",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "631": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "632": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "633": {
+        "type": "岩石",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "634": {
+        "type": "虫",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "635": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "636": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "637": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "638": {
+        "type": "钢",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "639": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "640": {
+        "type": "火",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "641": {
+        "type": "火",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "642": {
+        "type": "水",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "643": {
+        "type": "水",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "644": {
+        "type": "草",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "645": {
+        "type": "草",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "646": {
+        "type": "电",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "647": {
+        "type": "电",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "648": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "649": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "650": {
+        "type": "冰",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "651": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "652": {
+        "type": "龙",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "653": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "654": {
+        "type": "恶",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "655": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "656": {
+        "type": "妖精",
+        "group": "物理",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "657": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "658": {
+        "type": "电",
+        "group": "物理",
+        "power": "210",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "659": {
+        "type": "地面",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "660": {
+        "type": "虫",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "661": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "662": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "663": {
+        "type": "恶",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "664": {
+        "type": "水",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "665": {
+        "type": "冰",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "666": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "667": {
+        "type": "地面",
+        "group": "物理",
+        "power": "95",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "668": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "669": {
+        "type": "草",
+        "group": "物理",
+        "power": "125",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "670": {
+        "type": "草",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "40"
+    },
+    "671": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "672": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "673": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "30"
+    },
+    "674": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "675": {
+        "type": "恶",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "676": {
+        "type": "虫",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "677": {
+        "type": "钢",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "678": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "679": {
+        "type": "虫",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "680": {
+        "type": "火",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "681": {
+        "type": "恶",
+        "group": "物理",
+        "power": "20",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "682": {
+        "type": "火",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "683": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "684": {
+        "type": "钢",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "685": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "686": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "687": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "688": {
+        "type": "草",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "689": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "690": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "691": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "110",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "692": {
+        "type": "龙",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "693": {
+        "type": "恶",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "694": {
+        "type": "冰",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "695": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "180",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "696": {
+        "type": "恶",
+        "group": "物理",
+        "power": "180",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "697": {
+        "type": "水",
+        "group": "特殊",
+        "power": "195",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "698": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "699": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "195",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "700": {
+        "type": "电",
+        "group": "特殊",
+        "power": "175",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "701": {
+        "type": "一般",
+        "group": "物理",
+        "power": "210",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "702": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "703": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "185",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "704": {
+        "type": "火",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "705": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "706": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "707": {
+        "type": "地面",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "708": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "709": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "710": {
+        "type": "水",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "711": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "160",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "712": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "713": {
+        "type": "钢",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "714": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "715": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "716": {
+        "type": "电",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "717": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "718": {
+        "type": "一般",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "719": {
+        "type": "电",
+        "group": "特殊",
+        "power": "195",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "720": {
+        "type": "火",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "721": {
+        "type": "电",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "722": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "723": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "185",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "724": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "190",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "725": {
+        "type": "妖精",
+        "group": "物理",
+        "power": "190",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "726": {
+        "type": "钢",
+        "group": "物理",
+        "power": "200",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "727": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "200",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "728": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "200",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "729": {
+        "type": "电",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "730": {
+        "type": "水",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "731": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "732": {
+        "type": "电",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "733": {
+        "type": "水",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "734": {
+        "type": "电",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "735": {
+        "type": "火",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "736": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "737": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "738": {
+        "type": "草",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "739": {
+        "type": "冰",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "740": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "741": {
+        "type": "一般",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "—",
+        "pp": "20"
+    },
+    "742": {
+        "type": "钢",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "743": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "744": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "745": {
+        "type": "水",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "746": {
+        "type": "恶",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "747": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "748": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "749": {
+        "type": "岩石",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "750": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "751": {
+        "type": "龙",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "752": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "753": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "754": {
+        "type": "电",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "755": {
+        "type": "水",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "756": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "757": {
+        "type": "火",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "758": {
+        "type": "虫",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "759": {
+        "type": "电",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "760": {
+        "type": "一般",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "761": {
+        "type": "格斗",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "762": {
+        "type": "幽灵",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "763": {
+        "type": "冰",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "764": {
+        "type": "毒",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "765": {
+        "type": "水",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "766": {
+        "type": "飞行",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "767": {
+        "type": "妖精",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "768": {
+        "type": "龙",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "769": {
+        "type": "超能力",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "770": {
+        "type": "岩石",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "771": {
+        "type": "地面",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "772": {
+        "type": "恶",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "773": {
+        "type": "草",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "774": {
+        "type": "钢",
+        "group": "极巨",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "—"
+    },
+    "775": {
+        "type": "龙",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "776": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "777": {
+        "type": "妖精",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "778": {
+        "type": "草",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "779": {
+        "type": "草",
+        "group": "物理",
+        "power": "35",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "780": {
+        "type": "火",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "781": {
+        "type": "钢",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "782": {
+        "type": "钢",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "783": {
+        "type": "电",
+        "group": "物理",
+        "power": "110",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "784": {
+        "type": "龙",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "785": {
+        "type": "草",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "40"
+    },
+    "786": {
+        "type": "电",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "787": {
+        "type": "草",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "788": {
+        "type": "草",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "789": {
+        "type": "妖精",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "790": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "791": {
+        "type": "水",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "792": {
+        "type": "恶",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "793": {
+        "type": "恶",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "794": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "795": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "160",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "796": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "797": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "798": {
+        "type": "钢",
+        "group": "物理",
+        "power": "130",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "799": {
+        "type": "龙",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "90",
+        "pp": "20"
+    },
+    "800": {
+        "type": "岩石",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "801": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "802": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "803": {
+        "type": "草",
+        "group": "物理",
+        "power": "55",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "804": {
+        "type": "电",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "805": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "806": {
+        "type": "虫",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "807": {
+        "type": "火",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "808": {
+        "type": "恶",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "809": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "110",
+        "accuracy": "90",
+        "pp": "5"
+    },
+    "810": {
+        "type": "毒",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "40"
+    },
+    "811": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "812": {
+        "type": "水",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "813": {
+        "type": "冰",
+        "group": "物理",
+        "power": "20",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "814": {
+        "type": "飞行",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "815": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "816": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "817": {
+        "type": "恶",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "818": {
+        "type": "水",
+        "group": "物理",
+        "power": "25",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "819": {
+        "type": "电",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "820": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "821": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "822": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "823": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "824": {
+        "type": "冰",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "825": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "826": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "827": {
+        "type": "毒",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "828": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "829": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "830": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "831": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "80",
+        "pp": "5"
+    },
+    "832": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "833": {
+        "type": "火",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "834": {
+        "type": "水",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "835": {
+        "type": "草",
+        "group": "特殊",
+        "power": "150",
+        "accuracy": "95",
+        "pp": "5"
+    },
+    "836": {
+        "type": "冰",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "837": {
+        "type": "格斗",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "838": {
+        "type": "地面",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "839": {
+        "type": "毒",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "840": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "841": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "842": {
+        "type": "钢",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "843": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "844": {
+        "type": "幽灵",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "845": {
+        "type": "恶",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "846": {
+        "type": "飞行",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "80",
+        "pp": "10"
+    },
+    "847": {
+        "type": "电",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "80",
+        "pp": "10"
+    },
+    "848": {
+        "type": "地面",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "80",
+        "pp": "10"
+    },
+    "849": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "5"
+    },
+    "850": {
+        "type": "超能力",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "851": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "852": {
+        "type": "虫",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "853": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "854": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "855": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "856": {
+        "type": "龙",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "857": {
+        "type": "水",
+        "group": "物理",
+        "power": "60",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "858": {
+        "type": "草",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "859": {
+        "type": "钢",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "860": {
+        "type": "一般",
+        "group": "物理",
+        "power": "20",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "861": {
+        "type": "冰",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "862": {
+        "type": "龙",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "863": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "1"
+    },
+    "864": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "865": {
+        "type": "水",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "95",
+        "pp": "10"
+    },
+    "866": {
+        "type": "毒",
+        "group": "物理",
+        "power": "30",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "867": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "868": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "869": {
+        "type": "恶",
+        "group": "物理",
+        "power": "85",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "870": {
+        "type": "草",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "871": {
+        "type": "火",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "872": {
+        "type": "水",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "873": {
+        "type": "一般",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "874": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "875": {
+        "type": "超能力",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "876": {
+        "type": "水",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "877": {
+        "type": "恶",
+        "group": "特殊",
+        "power": "变化",
+        "accuracy": "90",
+        "pp": "10"
+    },
+    "878": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "879": {
+        "type": "电",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "880": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "881": {
+        "type": "冰",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "882": {
+        "type": "一般",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "883": {
+        "type": "冰",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "884": {
+        "type": "虫",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "885": {
+        "type": "草",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "886": {
+        "type": "水",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "887": {
+        "type": "一般",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "888": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "40",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "889": {
+        "type": "幽灵",
+        "group": "物理",
+        "power": "50",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "890": {
+        "type": "火",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "891": {
+        "type": "火",
+        "group": "物理",
+        "power": "90",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "892": {
+        "type": "电",
+        "group": "物理",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "893": {
+        "type": "钢",
+        "group": "物理",
+        "power": "160",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "894": {
+        "type": "恶",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "895": {
+        "type": "水",
+        "group": "物理",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "20"
+    },
+    "896": {
+        "type": "火",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "897": {
+        "type": "恶",
+        "group": "物理",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "898": {
+        "type": "毒",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "899": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "900": {
+        "type": "妖精",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "901": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "140",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "902": {
+        "type": "草",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "90",
+        "pp": "15"
+    },
+    "903": {
+        "type": "草",
+        "group": "特殊",
+        "power": "60",
+        "accuracy": "85",
+        "pp": "10"
+    },
+    "904": {
+        "type": "草",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "905": {
+        "type": "电",
+        "group": "特殊",
+        "power": "130",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "906": {
+        "type": "一般",
+        "group": "特殊",
+        "power": "120",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "907": {
+        "type": "龙",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "908": {
+        "type": "火",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "909": {
+        "type": "电",
+        "group": "特殊",
+        "power": "70",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "910": {
+        "type": "岩石",
+        "group": "物理",
+        "power": "95",
+        "accuracy": "100",
+        "pp": "5"
+    },
+    "911": {
+        "type": "钢",
+        "group": "特殊",
+        "power": "50",
+        "accuracy": "—",
+        "pp": "10"
+    },
+    "912": {
+        "type": "钢",
+        "group": "物理",
+        "power": "变化",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "913": {
+        "type": "龙",
+        "group": "变化",
+        "power": "—",
+        "accuracy": "—",
+        "pp": "15"
+    },
+    "914": {
+        "type": "妖精",
+        "group": "特殊",
+        "power": "80",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "915": {
+        "type": "火",
+        "group": "物理",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "916": {
+        "type": "电",
+        "group": "物理",
+        "power": "100",
+        "accuracy": "95",
+        "pp": "15"
+    },
+    "917": {
+        "type": "超能力",
+        "group": "特殊",
+        "power": "75",
+        "accuracy": "100",
+        "pp": "10"
+    },
+    "918": {
+        "type": "格斗",
+        "group": "物理",
+        "power": "65",
+        "accuracy": "100",
+        "pp": "15"
+    },
+    "919": {
+        "type": "毒",
+        "group": "特殊",
+        "power": "100",
+        "accuracy": "100",
+        "pp": "5"
+    }
+}
