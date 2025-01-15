@@ -4,6 +4,8 @@ A Python GUI for viewing PokemonHOME battle usage rates.
 
 一种基于 Python 的 PokemonHOME 使用率的 PC 端查询工具。
 
+![预览](https://i0.hdslb.com/bfs/new_dyn/64fb051d014e943f99bf33c1d9cb31c23173802.png@1192w.avif)
+
 ## 运行
 
 创建程序图标
