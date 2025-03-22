@@ -543,7 +543,7 @@ class pokeRankWindow():
     def __setProxyWindow(self):
         wSetProxy=ttk.Toplevel(f'设置代理', master=self.main)
         w = self.dpi(250)
-        h = self.dpi(260)
+        h = self.dpi(300)
         ws = self.main.winfo_screenwidth()
         hs = self.main.winfo_screenheight()
         x = (ws/2) - (w/2)
