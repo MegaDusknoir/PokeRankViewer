@@ -146,6 +146,8 @@ class pokeHomeLite:
         if not os.path.exists(f'{self.workDir}/cache'):
             os.makedirs(f'{self.workDir}/cache')
 
+        self.proxy = {}
+
         # デコードデータの読み込み
         self.type_code = create_type_code(bundlePath, CHS)
         self.nature_code = create_nature_code(bundlePath, CHS)
@@ -172,6 +174,9 @@ class pokeHomeLite:
             dex = json.load(fin)
         return dex
 
+    def setProxy(self, proxy:object):
+        self.proxy = proxy
+
     def nameSearch(self, name):
         pid = None
         for pkm in home.zukan:
@@ -191,6 +196,13 @@ class pokeHomeLite:
                 for id in dataSeason[sn]:
                     if dataSeason[sn][id]['rule'] == rule:
                         return dataSeason[sn][id]
+
+    def clearCache(self):
+        for f in os.listdir(f'{self.workDir}/cache'):
+            if f.endswith('.json'):
+                os.remove(f'{self.workDir}/cache/{f}')
+        self.__dataRank = {}
+        self.__dataSeason = None
 
     def getUsage(self, fullId:str, season:str, rule=1)->dict:
         pid, formId = fullId.split('-')
@@ -214,7 +226,7 @@ class pokeHomeLite:
             print('採用率を取得...')
             #url = f'https://resource.pokemon-home.com/battledata/ranking/{id}/{rst}/{ts2}/pdetail-{page}' # 剣盾
             url = f'https://resource.pokemon-home.com/battledata/ranking/scvi/{id}/{rst}/{ts2}/pdetail-{page}' # SV
-            res = requests.get(url, headers=headers)
+            res = requests.get(url, headers=headers, proxies=self.proxy)
             with open(f'{self.workDir}/cache/{localDataPath}', 'w', encoding='utf-8') as fout:
                 fout.write(res.text)
             data = json.loads(res.text)
@@ -334,16 +346,16 @@ class pokeHomeLite:
                 print('シーズン情報を取得...')
                 #url = 'https://api.battle.pokemon-home.com/cbd/competition/rankmatch/list' # 剣盾
                 url = 'https://api.battle.pokemon-home.com/tt/cbd/competition/rankmatch/list' # SV
-                res = requests.post(url, headers=headers, data='{"soft":"Sw"}')
+                res = requests.post(url, headers=headers, data='{"soft":"Sw"}', proxies=self.proxy)
                 self.__dataSeason = json.loads(res.text)['list']
                 with open(f'{self.workDir}/{self.cacheSeasonPath}', 'w', encoding='utf-8') as fout:
                     fout.write(res.text)
         return self.__dataSeason
 
-    def getRank(self, season:str, rule=1)->dict:
+    def getRank(self, season:str, rule=1, forceUpdate=False)->dict:
         rankTitle = f'Rank_S{season}R{rule}'
-        if rankTitle not in self.__dataRank:
-            if os.path.isfile(f'{self.workDir}/cache/{rankTitle}.json'):
+        if rankTitle not in self.__dataRank or forceUpdate == True:
+            if forceUpdate == False and os.path.isfile(f'{self.workDir}/cache/{rankTitle}.json'):
                 print('ポケモンの使用率をローカル取得...')
                 with open(f'{self.workDir}/cache/{rankTitle}.json', 'r', encoding='utf-8') as fin:
                     rank = json.load(fin)
@@ -360,7 +372,7 @@ class pokeHomeLite:
                 print('ポケモンの使用率を取得...')
                 #url = f'https://resource.pokemon-home.com/battledata/ranking/{id}/{rst}/{ts2}/pokemon' # 剣盾
                 url = f'https://resource.pokemon-home.com/battledata/ranking/scvi/{id}/{rst}/{ts2}/pokemon' # SV
-                rankRaw = requests.get(url, headers=headers).text
+                rankRaw = requests.get(url, headers=headers, proxies=self.proxy).text
                 rank = {}
                 for i,d in enumerate(json.loads(rankRaw)):
                     rank[combineFullId(d['id'], d['form'])] = i + 1
