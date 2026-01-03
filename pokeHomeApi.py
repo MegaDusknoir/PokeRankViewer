@@ -172,6 +172,13 @@ class pokeHomeLite:
         # 図鑑の読み込み
         with open(f'{path}/zukan.json', encoding='utf-8') as fin:
             dex = json.load(fin)
+        for type_id in range(1,18):
+            dex['493'][str(type_id)] = dex['493']['0'].copy()
+            dex['493'][str(type_id)]['form'] = f'{self.type_code[str(type_id)]}属性'
+            dex['493'][str(type_id)]['alias'] += f'-{self.type_code[str(type_id)]}'
+            dex['493'][str(type_id)]['type_1'] = self.type_code[str(type_id)]
+            self.type_code[str(type_id)]
+        dex['493']['0']['form'] = '一般属性'
         return dex
 
     def setProxy(self, proxy:object):
